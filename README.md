@@ -1,6 +1,6 @@
 <h1 align="center">Seleção Dev</h1>
 
-<p align="center">Repositório destinado ao treinamento sobre o processo seletivo do Hospital do Coração e Santa Casa de Sobral - CE, foi disponibilizado pelo professor e programdor sênior <a href="https://github.com/CiroboyBR">Ciro Martins</a>
+<p align="center">Repositório destinado ao treinamento sobre o processo seletivo do Hospital do Coração e Santa Casa de Sobral - CE, foi disponibilizado pelo professor e programador sênior <a href="https://github.com/CiroboyBR">Ciro Martins</a>
 </p>
 
 <br>
